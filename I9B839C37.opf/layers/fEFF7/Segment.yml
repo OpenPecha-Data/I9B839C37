@@ -1,0 +1,19 @@
+id: bed7cc27e7234ab3b288a743af7d1234
+annotation_type: Segment
+revision: '00001'
+annotations:
+  aee98432544c46eba4cb2eac1edcd0e6:
+    span:
+      start: 0
+      end: 0
+    metadata: {}
+  a12ca101fc1b4366b026ea1bed4450ed:
+    span:
+      start: 3
+      end: 3
+    metadata: {}
+  2423f68d09ee4aa29a37b63e81da8881:
+    span:
+      start: 6
+      end: 6
+    metadata: {}
